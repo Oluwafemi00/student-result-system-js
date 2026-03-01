@@ -4,7 +4,7 @@ A robust, responsive web application for teachers and administrators to easily i
 
 ## Live Demo
 
-[View the Live Application Here](https://oluwafemi00.github.io/student-result-system/)
+[View the Live Application Here](https://oluwafemi00.github.io/student-result-system-js/)
 
 ## Key Features
 
@@ -27,7 +27,7 @@ A robust, responsive web application for teachers and administrators to easily i
 
 Since this project uses no build tools or frameworks, running it locally is incredibly simple:
 
-1. Clone the repository: `git clone https://github.com/oluwafemi00/student-result-system.git`
+1. Clone the repository: `git clone https://github.com/oluwafemi00/student-result-system-js.git`
 2. Navigate to the project folder.
 3. Open `index.html` directly in any modern web browser.
 
